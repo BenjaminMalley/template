@@ -21,31 +21,31 @@ BebasRegular
 } 
 @font-face {
   font-family: 'ChunkFiveRegular';
-  src: url('../assets/font/Chunkfive-webfont.eot');
-  src: url('../assets/font/Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
-       url('../assets/font/Chunkfive-webfont.woff') format('woff'),
-       url('../assets/font/Chunkfive-webfont.ttf') format('truetype'),
-       url('../assets/font/Chunkfive-webfont.svg#ChunkFiveRegular') format('svg');
+  src: url('../font/Chunkfive-webfont.eot');
+  src: url('../font/Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../font/Chunkfive-webfont.woff') format('woff'),
+       url('../font/Chunkfive-webfont.ttf') format('truetype'),
+       url('../font/Chunkfive-webfont.svg#ChunkFiveRegular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
     font-family: 'Lobster13Regular';
-    src: url('Lobster_1.3-webfont.eot');
-    src: url('Lobster_1.3-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Lobster_1.3-webfont.woff') format('woff'),
-         url('Lobster_1.3-webfont.ttf') format('truetype'),
-         url('Lobster_1.3-webfont.svg#Lobster13Regular') format('svg');
+    src: url('../font/Lobster_1.3-webfont.eot');
+    src: url('../font/Lobster_1.3-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/Lobster_1.3-webfont.woff') format('woff'),
+         url('../font/Lobster_1.3-webfont.ttf') format('truetype'),
+         url('../font/Lobster_1.3-webfont.svg#Lobster13Regular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'BebasRegular';
-    src: url('BEBAS___-webfont.eot');
-    src: url('BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
-         url('BEBAS___-webfont.woff') format('woff'),
-         url('BEBAS___-webfont.ttf') format('truetype'),
-         url('BEBAS___-webfont.svg#BebasRegular') format('svg');
+    src: url('../font/BEBAS___-webfont.eot');
+    src: url('../font/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/BEBAS___-webfont.woff') format('woff'),
+         url('../font/BEBAS___-webfont.ttf') format('truetype'),
+         url('../font/BEBAS___-webfont.svg#BebasRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 
